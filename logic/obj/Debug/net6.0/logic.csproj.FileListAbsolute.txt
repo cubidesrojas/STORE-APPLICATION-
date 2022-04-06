@@ -1,0 +1,15 @@
+C:\Users\bigsh\Desktop\revature\0Project\logic\bin\Debug\net6.0\logic.deps.json
+C:\Users\bigsh\Desktop\revature\0Project\logic\bin\Debug\net6.0\logic.dll
+C:\Users\bigsh\Desktop\revature\0Project\logic\bin\Debug\net6.0\logic.pdb
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.csproj.AssemblyReference.cache
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.AssemblyInfoInputs.cache
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.AssemblyInfo.cs
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.dll
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\refint\logic.dll
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.pdb
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\ref\logic.dll
+C:\Users\bigsh\Desktop\revature\0Project\logic\bin\Debug\net6.0\retailstoredata.sql.dll
+C:\Users\bigsh\Desktop\revature\0Project\logic\bin\Debug\net6.0\retailstoredata.sql.pdb
+C:\Users\bigsh\Desktop\revature\0Project\logic\obj\Debug\net6.0\logic.csproj.CopyComplete

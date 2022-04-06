@@ -1,0 +1,12 @@
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.csproj.AssemblyReference.cache
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.AssemblyInfoInputs.cache
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.AssemblyInfo.cs
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.csproj.CoreCompileInputs.cache
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\bin\Debug\net6.0\retailstoredata.sql.deps.json
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\bin\Debug\net6.0\retailstoredata.sql.dll
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\bin\Debug\net6.0\retailstoredata.sql.pdb
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.dll
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\refint\retailstoredata.sql.dll
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\retailstoredata.sql.pdb
+C:\Users\bigsh\Desktop\revature\0Project\retailstoredata.sql\obj\Debug\net6.0\ref\retailstoredata.sql.dll
